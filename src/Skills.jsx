@@ -4,7 +4,7 @@ import html5 from "./assets/images/html5.png";
 import ReactJs from "./assets/images/ReactJs.png";
 import Redux from "./assets/images/Redux.png";
 import TailwindCss from "./assets/images/TailwindCss.png";
-import typeScript from "./assets/images/typeScript.png";
+import typescript from "./assets/images/typescript.png";
 import Jscript from "./assets/images/Jscript.png"
 
 
@@ -36,7 +36,7 @@ export default function Skills() {
       name: "JS",
     },
     {
-      logo: typeScript ,
+      logo: typescript ,
       level: "Beginner",
       count: 86,
       name: "TypeScript",
